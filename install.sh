@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/usr/bin/env bash -x
 
 VIM_DIR=~/.vim
 BUNDLE_DIR=$VIM_DIR/bundle
